@@ -7,3 +7,10 @@ Hello TeamWine
 #
 Hello TeamWine
 ##
+Team members:
+#
+Omer Sedakah
+#
+Julia Korsunsky
+#
+Limor Shilony
